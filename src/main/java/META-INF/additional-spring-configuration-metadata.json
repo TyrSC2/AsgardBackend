@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "email.port",
+    "type": "java.lang.Integer",
+    "description": "A description for 'email.port'"
+  },
+  {
+    "name": "email.host",
+    "type": "java.lang.String",
+    "description": "A description for 'email.host'"
+  },
+  {
+    "name": "email.username",
+    "type": "java.lang.String",
+    "description": "A description for 'email.username'"
+  },
+  {
+    "name": "email.password",
+    "type": "java.lang.String",
+    "description": "A description for 'email.password'"
+  },
+  {
+    "name": "road.file",
+    "type": "java.lang.String",
+    "description": "A description for 'road.file'"
+  },
+  {
+    "name": "adyen.hmac.key",
+    "type": "java.lang.String",
+    "description": "A description for 'adyen.hmac.key'"
+  },
+  {
+    "name": "adyen.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'adyen.api.key'"
+  },
+  {
+    "name": "adyen.api.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'adyen.api.endpoint'"
+  },
+  {
+    "name": "adyen.recurring-api.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'adyen.recurring-api.endpoint'"
+  },
+  {
+    "name": "cron.enabled",
+    "type": "java.lang.Boolean",
+    "description": "A description for 'cron.enabled'"
+  },
+  {
+    "name": "email.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'email.enabled'"
+  },
+  {
+    "name": "mollie.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'mollie.api.key'"
+  },
+  {
+    "name": "mollie.access.token",
+    "type": "java.lang.String",
+    "description": "A description for 'mollie.access.token'"
+  },
+  {
+    "name": "backend.url",
+    "type": "java.lang.String",
+    "description": "A description for 'backend.url'"
+  }
+]}
